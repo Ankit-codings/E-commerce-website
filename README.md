@@ -1,4 +1,4 @@
-# E-commerce-website
+# E-commerce-website(amazone clone)
 Welcome to the Amazon Clone, a meticulously crafted front-end project that mirrors the renowned Amazon shopping experience. This endeavor represents a harmonious blend of HTML, CSS, JavaScript, and Bootstrap, meticulously orchestrated to deliver a seamless and responsive website design.
 Purpose
 The primary objective of this project is to showcase a mastery of front-end technologies, providing a hands-on demonstration of building a dynamic and visually appealing web application. By replicating the core features of Amazon, the project serves as a practical exercise in user interface design and interactive web development.
