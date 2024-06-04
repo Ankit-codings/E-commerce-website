@@ -1,4 +1,20 @@
 # E-commerce-website(Amazone clone)
+
+Live Demo - https://github.com/Ankit-codings Responsive-Industrial-Business-Website-Template/
+
+Join Us Instagram - https://www.instagram.com/_ankit_rider_07?igsh=Ymd1Nm9wcDFia20=
+
+Telegram - https:// t.me/ankit_rider_07
+
+Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
+
+GitHub-https://github.com/Ankit-codings
+
+YouTube-https://youtube.com/@coding-ankit?si=IJ11DK59Hc50pYoj
+
+ ![image](https://github.com/Ankit-codings/E-commerce-website/assets/164986214/acba6d58-9532-4b17-802a-c87c86f1cdea)
+
+
 Welcome to the Amazon Clone, a meticulously crafted front-end project that mirrors the renowned Amazon shopping experience. This endeavor represents a harmonious blend of HTML, CSS, JavaScript, and Bootstrap, meticulously orchestrated to deliver a seamless and responsive website design.
 Purpose
 The primary objective of this project is to showcase a mastery of front-end technologies, providing a hands-on demonstration of building a dynamic and visually appealing web application. By replicating the core features of Amazon, the project serves as a practical exercise in user interface design and interactive web development.
